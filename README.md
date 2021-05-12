@@ -1,5 +1,11 @@
 ### Horse Food Mod for Minecraft
 
+## REQUIREMENTS
+
+**Forge 1.16.5**
+
+**!!! No dependencies !!!**
+
 ## TUTORIAL
 
 - Download the mod from https://github.com/Phuntum/HorseFood/releases.
@@ -10,4 +16,4 @@
 
 - Done!
 
-Discord Server: https://discord.gg/UDQbtsfeSh
+###### Discord Server: https://discord.gg/UDQbtsfeSh
