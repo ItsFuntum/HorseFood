@@ -1,7 +1,6 @@
-Horse Food Mod for Minecraft
+### Horse Food Mod for Minecraft
 
-
-TUTORIAL
+## TUTORIAL
 
 - Download the mod from https://github.com/Phuntum/HorseFood/releases.
 
@@ -10,6 +9,5 @@ TUTORIAL
 - Put the .jar file inside your "mods" folder, create one if you don't have one.
 
 - Done!
-
 
 Discord Server: https://discord.gg/UDQbtsfeSh
