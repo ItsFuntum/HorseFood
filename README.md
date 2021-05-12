@@ -1,10 +1,11 @@
 ### Horse Food Mod for Minecraft
+Make and eat Horse Food inside Minecraft!
 
 ## REQUIREMENTS
 
-**Forge 1.16.5**
+✔️ **Forge 1.16.5**
 
-**!!! No dependencies !!!**
+❌ **Dependencies**
 
 ## TUTORIAL
 
